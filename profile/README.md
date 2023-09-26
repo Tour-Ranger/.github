@@ -22,4 +22,4 @@
 
 ### [🎬 발표 영상 보러가기](https://www.youtube.com/watch?v=bXfGMT6MlEM)
 
-### [자세한 코드 보러가기](https://github.com/Tour-Ranger/Tour-Ranger-Back)
+### [💻 BackEnd Repository 보러가기](https://github.com/Tour-Ranger/Tour-Ranger-Back)
